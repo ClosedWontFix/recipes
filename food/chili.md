@@ -6,7 +6,7 @@
 - 2 Fresno Pepper
 - 1 Rd Bell Pepper
 - 1 Poblano Pepper
-- 2 Serano Peppers
+- 2 Serrano Peppers
 - 2 Stalks Celery
 - 1 Yellow Onion
 - 8 Cloves Garlic

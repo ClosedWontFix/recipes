@@ -1,4 +1,4 @@
-# Just a collection of recpies
+# Just a collection of recipies
 
 ## Food
 [Chili](food/chili.md)  

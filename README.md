@@ -1,7 +1,7 @@
 # Just a collection of recpies
 
 ## Food
-[[chili]]
+[Chili](food/chili.md)
 
 ## Drinks
-[[mango_madness]]
+[Mango Madness](drinks/mango_madness.md)

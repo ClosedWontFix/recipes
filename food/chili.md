@@ -1,6 +1,6 @@
 # Chili
 
-<img src="/images/chili1.jpg" height="200">
+<img src="/images/chili1.jpg" height="400">
 
 - 1 Jalapeno Pepper
 - 2 Fresno Pepper

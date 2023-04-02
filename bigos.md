@@ -11,6 +11,8 @@
 - 1 large Apple
 - 5 Carrots
 - 15 Dried Prunes
+- 1 tsp Salt
+- 1 tsp Ground Black Pepper
 
 1. Slice cabbage into strips roughly 3/4-1" wide
 2. Slice onions
@@ -25,6 +27,8 @@
 11. Chop the apple, and add it to the pot.
 12. Shred the carrots, nd add it to the pot.
 13. Cut the punes in half, and add it to the pot.
-14. Continue to cook, stirring regularly, for another 30 min.
+14. Add 1 tsp salt and 1 tsp black pepper.
+15. Continue to cook, stirring regularly, for another 30 min.
+16. Add salt and pepper to taste.
     
 Serve in a bowl with Polish Rye Bread.

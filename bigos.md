@@ -16,9 +16,9 @@
 2. Slice onions
 3. Put cabbage, onions, sauerkraut, and 1/2 tsp salt into a large stock pot on medium heat.  Stir occasionally so it doesnt stick.
 4. Slice bacon into pieces, and put into a large fry pan on medium-high heat.
-5. Dice Polish Sausage.
-6. Cut up Smoked Butt into large chunks.
-7. When the bacon is about half fried, add the Polish Sausage and Smoked Butt to the fry pan.
+5. Dice the polish sausage.
+6. Cut up smoked butt into large chunks.
+7. When the bacon is about half fried, add the polish sausage and smoked butt to the fry pan.
 8. When the meat mixture is lightly fried, add it to the vegetable mixture.
 9. Add beer.
 10. Keep the pot on a medium heat, stiring regularly, for about 30 min.

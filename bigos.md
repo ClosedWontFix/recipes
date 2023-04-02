@@ -18,7 +18,7 @@
 4. Slice bacon into pieces, and put into a large fry pan on medium-high heat.
 5. Dice Polish Sausage.
 6. Cut up Smoked Butt into large chunks.
-7. When Bacon is about half fried, add the Polish Sausage and Smoked Butt to the fry pan.
+7. When the bacon is about half fried, add the Polish Sausage and Smoked Butt to the fry pan.
 8. When the meat mixture is lightly fried, add it to the vegetable mixture.
 9. Add beer.
 10. Keep the pot on a medium heat, stiring regularly, for about 30 min.

@@ -1,7 +1,7 @@
 # Just a collection of recipes
 
 ## Food
-[Bigos (Polish Hunter Stew)](/food/bigos.md)  
+[Bigos (Polish Hunter Stew)](bigos.md)  
 [Chili](chili.md)  
 [Rib Rub](ribrub.md)  
 

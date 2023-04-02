@@ -2,8 +2,8 @@
 
 ## Food
 [Bigos (Polish Hunter Stew)](/food/bigos.md)  
-[Chili](food/chili.md)  
-[Rib Rub](food/ribrub.md)  
+[Chili](chili.md)  
+[Rib Rub](ribrub.md)  
 
 ## Drinks
-[Mango Madness](drinks/mango_madness.md)  
+[Mango Madness](mango_madness.md)  

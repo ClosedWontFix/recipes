@@ -1,4 +1,5 @@
 == Just a collection of recipes
+:toc:
 
 === Food
 

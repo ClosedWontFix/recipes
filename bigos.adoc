@@ -1,3 +1,5 @@
+:stylesheet: adoc.css
+
 == Bigos (Polish Hunter Stew)
 
 * 1 head of Cabbage

@@ -1,6 +1,0 @@
-# Mango Madness
-
-- 4 oz Mango purée
-- 2 oz vodka
-- 1 oz triple sec
-- 6 oz ginger ale

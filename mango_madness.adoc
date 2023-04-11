@@ -1,4 +1,4 @@
-== Mango Madness
+= Mango Madness
 
 === Ingredients
 * 4 oz Mango purée

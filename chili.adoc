@@ -1,4 +1,4 @@
-== Chili
+= Chili
 
 image:images/chili1.jpg[Chili,600]
 

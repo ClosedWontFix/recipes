@@ -2,10 +2,10 @@
 
 === Food
 
-link:bigos.md[Bigos (Polish Hunter Stew)] +
-link:chili.md[Chili] +
-link:ribrub.md[Rib Rub]
+link:bigos.adoc[Bigos (Polish Hunter Stew)] +
+link:chili.adoc[Chili] +
+link:ribrub.adoc[Rib Rub]
 
 === Drinks
 
-link:mango_madness.md[Mango Madness]
+link:mango_madness.adoc[Mango Madness]

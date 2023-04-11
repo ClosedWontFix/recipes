@@ -1,4 +1,4 @@
-= Bigos (Polish Hunter Stew)
+== Bigos (Polish Hunter Stew)
 :stylesheet: adoc.css
 
 * 1 head of Cabbage

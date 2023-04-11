@@ -1,6 +1,6 @@
 = Dan’s Rib Rub
 
-=== Ingredients
+== Ingredients
 * 1 cup brown sugar
 * 5 tsp kosher salt
 * 1 tsp coarse black pepper

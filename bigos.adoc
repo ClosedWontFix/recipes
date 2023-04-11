@@ -1,6 +1,6 @@
 = Bigos (Polish Hunter Stew)
 
-=== Ingredients
+== Ingredients
 * 1 head of Cabbage
 * 2 large Yellow Onions
 * 1 jar Sauerkraut with Carrot
@@ -15,7 +15,7 @@
 * 1 tsp Salt
 * 1 tsp Ground Black Pepper
 
-=== Directions
+== Directions
 [arabic]
 . Slice cabbage into strips roughly 3/4-1” wide
 . Slice onions

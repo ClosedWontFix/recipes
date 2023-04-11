@@ -3,8 +3,8 @@
 
 === Food
 
-link:bigos.adoc[Bigos (Polish Hunter Stew)] +
-link:chili.adoc[Chili] +
+link:bigos.adoc[Bigos (Polish Hunter Stew)]
+link:chili.adoc[Chili]
 link:ribrub.adoc[Rib Rub]
 
 === Drinks

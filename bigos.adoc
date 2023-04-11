@@ -1,6 +1,7 @@
 == Bigos (Polish Hunter Stew)
 :stylesheet: adoc.css
 
+
 === Ingredients
 * 1 head of Cabbage
 * 2 large Yellow Onions
